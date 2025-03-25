@@ -12,8 +12,7 @@ h1 {
 
 .d-block {
     width: 700px;
-    margin: auto;
-    display: flex;
+    margin: 0 auto;
     justify-content: center;
 }
 
@@ -26,4 +25,13 @@ h1 {
 section {
     text-align: center;
     font-size: 40px;
+}
+
+.carousel {
+    width:800px;
+}
+
+p {
+    color: rgb(0, 0, 0);
+   background-color: coral;
 }
