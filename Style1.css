@@ -31,7 +31,10 @@ section {
     width:800px;
 }
 
-p {
-    color: rgb(0, 0, 0);
-   background-color: coral;
+body {
+    background-color: coral;
 }
+
+html {
+    scroll-behavior: smooth;
+  }

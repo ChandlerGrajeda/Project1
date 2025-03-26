@@ -1,0 +1,19 @@
+.navbar {
+    text-decoration: underline;
+    background-color: rgb(196, 32, 32);
+    font-size: 20px;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-transform: uppercase;
+}
+
+body {
+    background-color: coral;
+}
+
+html {
+    scroll-behavior: smooth;
+  }

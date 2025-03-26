@@ -1,0 +1,33 @@
+.navbar {
+    text-decoration: underline;
+    background-color: rgb(196, 32, 32);
+    font-size: 20px;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-transform: uppercase;
+}
+
+body {
+    background-image: url("./images/All-about-pizza-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+  }
+
+.text-color {
+    color: antiquewhite;
+}
+
+input{
+    border-width: 3px;
+    border-color: blue;
+}
+
+html {
+    scroll-behavior: smooth;
+    height: 100%;
+  }
