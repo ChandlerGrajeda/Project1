@@ -35,3 +35,9 @@ section {
 .order {
     color: rgb(0, 0, 0);
 }
+
+.own {
+    color: black;
+    text-align: left;
+    font-weight: bold;
+}

@@ -35,4 +35,10 @@ input{
 html {
     scroll-behavior: smooth;
     height: 100%;
-  }
+}
+
+.own {
+    color: rgb(250, 249, 249);
+    text-align: left;
+    font-weight: bold;
+}
