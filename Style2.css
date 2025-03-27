@@ -23,16 +23,15 @@ html {
     scroll-behavior: smooth;
 }
 
-.order {
-    margin-left: 50px;
-}
-
 .container-fluid {
     color: black;
     font-style: italic;
 }
 
-.price {
-    margin-left: 68px;
+section {
+    text-align: center;
 }
 
+.order {
+    color: rgb(0, 0, 0);
+}
