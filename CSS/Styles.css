@@ -40,8 +40,14 @@ input[type=text] {
     padding:5px;
     width:50%
 }
+
 input[type=label] {
     min-width:60px;
+}
+
+input[type=button] {
+    padding: 3px;
+    margin: 10px;
 }
 
 .carousel {
@@ -85,8 +91,6 @@ div.list{
     background-size: cover;
     height: 100%;
 }
-
-
 
 .info {
     text-align: flex;
