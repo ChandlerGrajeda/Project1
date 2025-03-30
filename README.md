@@ -9,9 +9,9 @@ Screen Shot
 
 Technologies Used:
 
--Html
--CSS
--Bootstrap
+*Html
+*CSS
+*Bootstrap
 
 User Stories:
 
