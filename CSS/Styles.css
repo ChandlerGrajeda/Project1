@@ -35,6 +35,15 @@ h1.title {
     text-transform: uppercase;
 }
 
+input[type=text] {
+    margin:5px;
+    padding:5px;
+    width:50%
+}
+input[type=label] {
+    min-width:60px;
+}
+
 .carousel {
     max-width: 700px;
     width:100%;
