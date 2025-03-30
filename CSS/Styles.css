@@ -14,6 +14,12 @@ h1 {
     text-transform: uppercase;
 }
 
+h1.title {
+    color: rgb(241, 13, 13);
+    text-align: center;
+    text-transform: uppercase;
+}
+
 
 .d-block {
     width: 700px;
@@ -27,13 +33,33 @@ h1 {
     font-size: 20px;
 }
 
+.text-color {
+    color: antiquewhite;
+}
+
 section {
     text-align: center;
     font-size: 40px;
 }
 
+div.list{
+    text-align: center;
+}
+
 .carousel {
     width:800px;
+}
+
+.order {
+    color: rgb(0, 0, 0);
+}
+
+body.contact{
+    background-image: url("./images/All-about-pizza-1920x1080.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
 }
 
 body {
@@ -42,6 +68,7 @@ body {
 
 html {
     scroll-behavior: smooth;
+    height: 100%;
 }
 
 h2 {
@@ -69,3 +96,13 @@ h3 {
     font-weight: bold;
 }
 
+.own1 {
+    color: rgb(250, 249, 249);
+    text-align: left;
+    font-weight: bold;
+}
+
+.msg {
+    width:300px; 
+    height:300px;
+}
