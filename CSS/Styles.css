@@ -31,7 +31,7 @@ a {
 
 h1.title {
     color: rgb(241, 13, 13);
-    text-align: center;
+    text-align: left;
     text-transform: uppercase;
 }
 
@@ -97,14 +97,12 @@ div.list{
 
 .own {
     color: black;
-    text-align: left;
-    font-weight: bold;
+    text-align: center;
 }
 
 .own1 {
     color: rgb(250, 249, 249);
     text-align: left;
-    font-weight: bold;
 }
 
 .msg {
