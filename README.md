@@ -4,7 +4,9 @@ CG's Pizza is where you can get all of the favorite styles of pizza for an affor
 The website is displays a home page telling about the website, a menu page for whats available to buy, and a contact us page for any kind of feedback or concern directly to the owner.
 
 # Screen Shot
-<img src="./images/Screenshot.jpg">
+<img src="./images/Screenshot-1.jpg">
+<img src="./images/Screenshot-2.jpg">
+<img src="./images/Screenshot-3.jpg">
 
     
 # Technologies Used:
@@ -20,6 +22,8 @@ The website is displays a home page telling about the website, a menu page for w
 
 # Wireframe
 <img src="./images/WireFrame1.jpg">
+<img src="./images/Wireframe-2_page-0001.jpg">
+<img src="./images/Wireframe-3_page-0001.jpg">
 
 # Next Steps:
 
