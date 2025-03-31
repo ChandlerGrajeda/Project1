@@ -30,22 +30,27 @@ a {
 }
 
 h1.title {
-    color: rgb(241, 13, 13);
-    text-align: left;
+    color: rgb(0, 0, 0);
+    text-align: center;
     text-transform: uppercase;
 }
 
 input[type=text] {
     margin:5px;
     padding:5px;
-    width:50%
+    width:25%;
 }
 
 input[type=label] {
-    min-width:60px;
+    min-width: 30px;
 }
 
 input[type=button] {
+    padding: 3px;
+    margin: 10px;
+}
+
+input[type=submit] {
     padding: 3px;
     margin: 10px;
 }
@@ -68,12 +73,11 @@ nav.navbar {
 }
 
 .text-color {
-    color: antiquewhite;
+    color: black;
 }
 
 section {
     text-align: center;
-    font-size: 40px;
 }
 
 div.list{
@@ -85,7 +89,7 @@ div.list{
 }
 
 .contact{
-    background-image: url("../images/All-about-pizza-1920x1080.png");
+    background-image: url("../images/ContactUs-bg.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -102,11 +106,6 @@ div.list{
 .own {
     color: black;
     text-align: center;
-}
-
-.own1 {
-    color: rgb(250, 249, 249);
-    text-align: left;
 }
 
 .msg {
