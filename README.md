@@ -22,8 +22,8 @@ The website is displays a home page telling about the website, a menu page for w
 
 # Wireframe:
 <img src="./images/WireFrame1.jpg">
-<img src="./images/Wireframe-2_page-0001.jpg">
-<img src="./images/Wireframe-3_page-0001.jpg">
+<img src="./images/Wireframe-2.jpg">
+<img src="./images/Wireframe-3.jpg">
 
 # Next Steps:
 
