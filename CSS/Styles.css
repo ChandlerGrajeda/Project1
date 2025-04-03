@@ -29,6 +29,9 @@ a {
  text-decoration: none;
 }
 
+label {
+    min-width: 170px;
+}
 h1.title {
     color: rgb(0, 0, 0);
     text-align: center;
@@ -38,7 +41,8 @@ h1.title {
 input[type=text] {
     margin:5px;
     padding:5px;
-    width:20rem;
+    min-width:400px;
+
 }
 
 input[type=label] {
@@ -110,6 +114,6 @@ div.list{
 }
 
 .msg {
-    width:20rem; 
+   min-width: 400px; 
     height:20rem;
 }
